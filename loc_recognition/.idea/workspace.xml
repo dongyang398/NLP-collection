@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a28f53d9-7332-4683-84e5-a718d40527ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UvV7vfgVDO8Uun45E8Pl6Tpy9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="corpusHandler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="loc_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/corpusHandler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.corpusHandler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a28f53d9-7332-4683-84e5-a718d40527ae" name="Default Changelist" comment="" />
+      <created>1576236891815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576236891815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576305210189">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="654" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.828@0.23.1440.828" timestamp="1576305210189" />
+    <state width="1440" height="259" key="GridCell.Tab.0.bottom" timestamp="1576320322583">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1409" height="188" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576306667610" />
+    <state width="1440" height="259" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1576320322583" />
+    <state width="1440" height="259" key="GridCell.Tab.0.center" timestamp="1576320322582">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1409" height="188" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576306667609" />
+    <state width="1440" height="259" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1576320322582" />
+    <state width="1440" height="259" key="GridCell.Tab.0.left" timestamp="1576320322582">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1409" height="188" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576306667609" />
+    <state width="1440" height="259" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1576320322582" />
+    <state width="1440" height="259" key="GridCell.Tab.0.right" timestamp="1576320322583">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1409" height="188" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576306667610" />
+    <state width="1440" height="259" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1576320322583" />
+    <state x="261" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576320103878">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="261" y="191" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1576320103877" />
+  </component>
+</project>
